@@ -11,5 +11,5 @@ def contain_a(array)
 end
 
 def first_wa(hash)
-  hash.values.find { |val| val.start_with
+  hash.values.find { |val| val.start_with?("wa")
 end

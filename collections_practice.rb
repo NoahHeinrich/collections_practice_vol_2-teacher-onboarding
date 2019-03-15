@@ -24,3 +24,7 @@ def count_elements(array)
     if new_array
   end
 end
+
+def check_array(array,name)
+  
+end

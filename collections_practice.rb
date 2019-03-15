@@ -7,5 +7,5 @@ def begins_with_r(array)
 end
 
 def contain_a(array)
-  array.keep_if()
+  array.keep_if{ |word| word.
 end

@@ -10,6 +10,6 @@ def contain_a(array)
   array.keep_if{ |word| word.include? "a" }
 end
 
-def first_wa(hash)
-  hash.values.find { |val| val.start_with?("wa") }
+def first_wa(array)
+  
 end

@@ -9,3 +9,6 @@ end
 def contain_a(array)
   array.keep_if{ |word| word.include? "a" }
 end
+
+def first_wa(hash)
+end

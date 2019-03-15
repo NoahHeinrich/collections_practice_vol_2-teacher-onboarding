@@ -26,5 +26,7 @@ def count_elements(array)
 end
 
 def check_array(array,name)
-  
+  array.each do |hash|
+    if hash[:name]
+  end
 end
